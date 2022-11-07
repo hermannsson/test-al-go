@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "test-al-go"
+                    },
+                    {
+                        "path":  "test-al-go.Test"
                     }
                 ],
     "settings":  {
