@@ -1,9 +1,13 @@
-{
+﻿{
     "country":  "IS",
     "appFolders":  [
-    ],
+
+                   ],
     "testFolders":  [
-    ],
+
+                    ],
     "bcptTestFolders":  [
-    ]
+
+                        ],
+    "RepoVersion":  "1.1"
 }
